@@ -1,18 +1,15 @@
-#Шаги установки: 
-
-####1 - Подключить venv командой: 
-`python -m venv venv`
-
-####2 - Активировать его, командой:
-- `cd venv`
-- `cd Scripts`
-- `activate`
-
-####3 - В Консоле прейти в папку рут, командой:
-`cd Card_website-master`
-
-####4 - Установить библиотеки командой:
-`pip install -r requirements.txt`
-
-####5 - Запустить сервер, командой:
-`python manage.py runserver`
+<h1>👋How to install: </h1>
+<h4>1 - Connect venv:</h4> 
+<i>python -m venv venv</i>
+<h4>2 - Activate it:</h4> 
+<ul>
+  <li>cd venv</li>
+  <li>cd Scripts</li>
+  <li>activate</li>
+</ul>
+<h4>3 - In the Console, go to the root folder:</h4>
+<i>cd ../..</i>
+<h4>4 - Install libraries:</h4>
+<i>pip install -r requirements.txt</i>
+<h4>5 - Run server:</h4> 
+<i>python manage.py runserver</i>
